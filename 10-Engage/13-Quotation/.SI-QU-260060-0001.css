@@ -1,4 +1,4 @@
-/* SimpleMotion Quotation Stylesheet - 260050 XYZ Automated Table 2 */
+/* SimpleMotion Quotation Stylesheet - 260060 XYZ Automated Table 2 */
 
 :root {
   --font-stack: Calibri, 'Calibri Light', sans-serif;
@@ -11,7 +11,7 @@
   margin: 15mm 20mm 20mm 20mm;
 
   @top-center {
-    content: "260050-SI - XYZ Automated Table 2 - Design and Manufacture";
+    content: "260060-SI - XYZ Automated Table 2 - Design and Manufacture";
     font-family: var(--font-stack);
     font-size: 7pt;
     vertical-align: middle;
@@ -26,7 +26,7 @@
   }
 
   @bottom-center {
-    content: "SI-QU-260050-0001.pdf";
+    content: "SI-QU-260060-0001.pdf";
     font-family: var(--font-stack);
     font-size: 7pt;
     vertical-align: middle;
